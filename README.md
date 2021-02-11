@@ -6,3 +6,18 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 Here's an example how the data looks (each class takes three-rows):
 
 ![fashion-mnist-sample image](https://user-images.githubusercontent.com/26498056/107705969-2c891980-6cf2-11eb-8358-8827d15ae5dc.png)
+
+### Labels
+Each training and test example is assigned to one of the following labels:
+
+Label	Description
+0	T-shirt/top
+1	Trouser
+2	Pullover
+3	Dress
+4	Coat
+5	Sandal
+6	Shirt
+7	Sneaker
+8	Bag
+9	Ankle boot
